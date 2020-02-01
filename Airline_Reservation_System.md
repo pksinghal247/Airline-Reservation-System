@@ -1,6 +1,6 @@
 # Airline-Reservation-System
 PK airline Reservation System have 10 seats 5 for First class and 5 for Executive class. Code is written in Java
-## Happy Coding :)
+## Happy Coding 😊
 ```java
 import java.io.Console;
 
